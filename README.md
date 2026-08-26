@@ -16,6 +16,6 @@ This was a fun project to build and a great way to practice Python logic and gam
 To play the game locally, clone this repository and run the main script in your terminal:
 
 ```bash
-git clone [https://github.com/VaultedAtelier/rock-paper-scissors-or-lizard-spock.git](https://github.com/VaultedAtelier/rock-paper-scissors-or-lizard-spock.git)
+git clone https://github.com/VaultedAtelier/rock-paper-scissors-or-lizard-spock.git
 cd rock-paper-scissors-or-lizard-spock
 python rock_paper_scissors.py
